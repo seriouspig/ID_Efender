@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<HighScoreData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerName>
+    <string>PIOTR2</string>
+    <string>PIOTR2</string>
+    <string>NICK</string>
+    <string>EDDIE</string>
+    <string>PIOTR</string>
+  </PlayerName>
+  <Score>
+    <int>5900</int>
+    <int>2600</int>
+    <int>1500</int>
+    <int>200</int>
+    <int>100</int>
+  </Score>
+  <Count>5</Count>
+</HighScoreData>

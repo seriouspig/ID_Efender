@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/debug.spritefont</SourceFile>
+  <SourceTime>2018-12-18T15:39:25.9540927+01:00</SourceTime>
+  <DestFile>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/bin/Windows/debug.xnb</DestFile>
+  <DestTime>2018-12-18T17:31:34.9393804+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

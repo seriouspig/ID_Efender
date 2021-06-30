@@ -1,0 +1,669 @@
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojAssemblyReference.cache
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CoreCompileInputs.cache
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CopyComplete
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+C:\Edinburgh College\Programming\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+H:\Visual Studio 2017\Projects\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojAssemblyReference.cache
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CoreCompileInputs.cache
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CopyComplete
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+C:\Edinburgh College\Programming\IDefender\vol2\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojAssemblyReference.cache
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CoreCompileInputs.cache
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CopyComplete
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+C:\Edinburgh College\Programming\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\plane.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\plane.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\bullet.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_left.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_right.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_left.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_right.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_left.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_right.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_left.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_right.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background_sky.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\HUD.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\map.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_map.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_map.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship_map.xnb
+H:\Visual Studio 2017\Projects\IDefender\vol3\IDefender\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_left.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_right.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_left.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_right.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_left.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_right.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_left.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_right.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background_sky.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_map.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\HUD.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\map.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\plane.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship_map.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_map.xnb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojAssemblyReference.cache
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CoreCompileInputs.cache
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CopyComplete
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+C:\Edinburgh College\Programming\IDefender\vol 8\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_1.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background_sky.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_left.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_right.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_left.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_right.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_left.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_right.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_left.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_right.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\bullet.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_map.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\explosion.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\HUD.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\map.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\plane.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship_map.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_1.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_map.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\H DRIVE\20181123\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojResolveAssemblyReference.cache
+D:\H DRIVE\20181123\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+D:\H DRIVE\20181123\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\go back.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_left.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_right.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_left.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_right.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_left.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_right.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_left.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_right.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background_sky.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_map.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\go back.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\HUD.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\map.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\plane.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship_map.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_1.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_map.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojAssemblyReference.cache
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CoreCompileInputs.cache
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CopyComplete
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_map.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.wma
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\rocketEngine.xnb
+C:\Edinburgh College\Programming\IDefender\vol10\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\panic.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.wma
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\panic.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_map.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\rocketEngine.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\boom.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\shot.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\invasionmeter.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\gameover.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\instructions.xnb
+D:\H DRIVE\20181123\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\title.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.wma
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\panic.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_map.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background_sky.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_left.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_right.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_left.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_right.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_left.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_right.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_left.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_right.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\bullet.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_map.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\explosion.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\go back.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\HUD.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\map.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\plane.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship_map.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_1.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_map.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\rocketEngine.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\boom.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\shot.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\invasionmeter.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\title.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\instructions.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\gameover.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\IDEFENDER FINAL\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojResolveAssemblyReference.cache
+D:\IDEFENDER FINAL\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+D:\IDEFENDER FINAL\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\textboxUI.xnb
+D:\IDEFENDER FINAL\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_piper.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.wma
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_left.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_right.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_left.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_right.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_left.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_right.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_left.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_right.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background_sky.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\boom.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_map.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_piper.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\gameover.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\go back.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\HUD.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\instructions.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\invasionmeter.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\map.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\panic.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_map.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\plane.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\rocketEngine.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\shot.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship_map.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\textboxUI.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\title.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_1.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_map.xnb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojAssemblyReference.cache
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CoreCompileInputs.cache
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CopyComplete
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+C:\EC assesments\Programming\20181215\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\press_start.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.wma
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_left.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_right.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_left.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_right.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_left.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_right.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_left.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_right.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background_sky.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\boom.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_map.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_piper.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\gameover.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\go back.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\HUD.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\instructions.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\invasionmeter.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\map.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\panic.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_map.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\plane.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\press_start.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\rocketEngine.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\shot.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship_map.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\textboxUI.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\title.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_1.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_map.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojAssemblyReference.cache
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CoreCompileInputs.cache
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CopyComplete
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\game_over.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\new_score.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\select.xnb
+C:\EC assesments\Programming\20181217\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\game_over_sound.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.wma
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_left.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_right.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_left.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_right.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_left.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_right.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_left.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_right.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background_sky.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\boom.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_map.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_piper.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\gameover.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\game_over.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\game_over_sound.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\go back.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\HUD.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\instructions.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\invasionmeter.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\map.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\new_score.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\panic.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_map.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\plane.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\press_start.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\rocketEngine.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\select.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\shot.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship_map.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\textboxUI.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\title.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_1.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_map.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojAssemblyReference.cache
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CoreCompileInputs.cache
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CopyComplete
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\warning_sound.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\warning_sign.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\score.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\black_background.xnb
+C:\EC assesments\Programming\20181218\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_enemy_map.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.wma
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_left.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background1_right.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_left.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background2_right.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_left.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background3_right.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_left.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background4_right.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\background_sky.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\black_background.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\boom.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\debug.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_map.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\enemy_piper.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\gameover.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\game_over.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\game_over_sound.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\go back.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\HUD.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\instructions.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\invasionmeter.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\map.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\new_score.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\panic.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_enemy_map.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_loop.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\piper_map.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\plane.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\press_start.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\rocketEngine.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\score.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\select.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\shot.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\spaceship_map.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\textboxUI.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\title.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_1.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\walker_map.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\warning_sign.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\Content\warning_sound.xnb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.exe
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\ID-efender.pdb
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.dll
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.xml
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csprojAssemblyReference.cache
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CoreCompileInputs.cache
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\obj\x86\Debug\ID-efender.csproj.CopyComplete
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\obj\x86\Debug\ID-efender.exe
+C:\EC assesments\Programming\20181218\FINAL\CLEAN WITH INDENTATION\ID-efender\ID-efender\obj\x86\Debug\ID-efender.pdb

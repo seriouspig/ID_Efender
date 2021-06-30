@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background2.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/spaceship.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/bullet.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/walker.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background1.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background1_right.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background2_left.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background3_left.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background3_right.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background4_left.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background4_right.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background_sky.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/map.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/walker_map.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/spaceship_map.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/explosion.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/walker_1.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/go back.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/enemy.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/plane.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/piper_loop.wav</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/panic.wav</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/rocketEngine.wav</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/boom.wav</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/shot.wav</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/textboxUI.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background2_right.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/background1_left.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/enemy_piper.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/press_start.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/title.jpg</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/gameover.jpg</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/game_over.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/new_score.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/select.wav</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/game_over_sound.wav</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/instructions.jpg</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/warning_sign.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/warning_sound.wav</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/HUD.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/score.spritefont</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/debug.spritefont</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/invasionmeter.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/black_background.jpg</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/piper_map.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/piper.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/piper_enemy_map.png</File>
+    <File>C:/EC assesments/Programming/20181218/FINAL/CLEAN WITH INDENTATION/ID-efender/ID-efender/Content/enemy_map.png</File>
+  </SourceFiles>
+</SourceFileCollection>
